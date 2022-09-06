@@ -2,9 +2,9 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 60 L10 Assignment #00
-ZCZC W00 100 L02 ZOOM meetings related (offline OS course)
+ZCZC W00 100 L99 Face-to-face lecture
 ZCZC W00 30 L01 SCELE/Discord related
-ZCZC W00 100 L02 ZOOM meetings related (offline OS course)
+ZCZC W00 100 L99 Face-to-face lecture
 ZCZC W00 30 L01 SCELE/Discord related
 ZCZC W00 60 L05 Quiz related, studying
 ZCZC W00 5 L03 GitHub and git related
