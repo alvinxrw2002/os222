@@ -12,7 +12,7 @@ Definitely the most useful link for those who enroll this course. It provides al
 Basic commands for vi. Can be used for file-related tasks. I'd rather just see those commands through here than memorizing all of them.
 
 3. [Digital/Online Privacy](https://www.freecodecamp.org/news/the-beginners-guide-to-online-privacy-7149b33c4a3e/)<br>
-Online privacy matters less now. When you share your personal data throughout companies, there’s no guaranty that they’ll keep them safe.
+Online privacy matters less now. When you share your personal data throughout companies, there’s no guarantee that they’ll keep them safe.
 
 4. [Cyber Security Introduction](https://www.youtube.com/watch?v=rcDO8km6R6c)<br>
 An intro to cyber security. What is it? How to apply it? What could possibly threatens it?
