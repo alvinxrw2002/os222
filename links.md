@@ -17,7 +17,6 @@ Basic commands for vi. Can be used for file-related tasks. I'd rather just see t
 **W02**
 
 <br>
-
 3. [Digital/Online Privacy](https://www.freecodecamp.org/news/the-beginners-guide-to-online-privacy-7149b33c4a3e/)<br>
 Online privacy matters less now. When you share your personal data throughout companies, there’s no guarantee that they’ll keep them safe.
 
@@ -32,7 +31,6 @@ One of the cyber security concept, Secure Hashing Algorithm (SHA in the W02 assi
 **W03**
 
 <br>
-
 6. [Fuse in linux kernel](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
 Explains what fues is and what are the commands. This site also explains the kernel side. Can be a good start for understanding fuse.
 
