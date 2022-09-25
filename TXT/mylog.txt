@@ -29,3 +29,10 @@ ZCZC W02  60 L62 Renstall Virtual Debian Guest
 ZCZC W02 120 L11 Assignment #02
 ZCZC W02  30 L40 TXT/ related in general
 ZCZC W02  10 L03 git related (pull, commit, push)
+ZCZC W03  30 L01 SCELE/Discord related
+ZCZC W03 100 L02 OS Lecture via ZOOM
+ZCZC W03  30 L01 SCELE/Discord related
+ZCZC W03  60 L05 Quiz related, studying
+ZCZC W03  60 L13 Assignment #3
+ZCZC W03  10 L41 mylog.txt related
+ZCZC W03  10 L03 git related (pull, commit, push)
