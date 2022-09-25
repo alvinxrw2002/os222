@@ -13,7 +13,9 @@ Definitely the most useful link for those who enroll this course. It provides al
 Basic commands for vi. Can be used for file-related tasks. I'd rather just see those commands through here than memorizing all of them.
 
 <br>
+
 **W02**
+
 <br>
 
 3. [Digital/Online Privacy](https://www.freecodecamp.org/news/the-beginners-guide-to-online-privacy-7149b33c4a3e/)<br>
@@ -26,7 +28,9 @@ An intro to cyber security. What is it? How to apply it? What could possibly thr
 One of the cyber security concept, Secure Hashing Algorithm (SHA in the W02 assignment). Basically it encrypts our text with a hash function.
 
 <br>
+
 **W03**
+
 <br>
 
 6. [Fuse in linux kernel](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
