@@ -1,1 +1,21 @@
-[HOME]({{ site.baseurl }}/) --- [LOG]({{ site.baseurl }}/TXT/mylog.txt) --- [LINKS]({{ site.baseurl }}/LINKS/)
+---
+---
+<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<br><br>
+[HOME]({{ site.baseurl }}/) ---
+[LINKS]({{ site.baseurl }}/LINKS/) ---
+[TIPS]({{ site.baseurl }}/TIPS/) ---
+[PUBLIC KEY]({{ site.baseurl }}{{ site.mypublickey }}) ---
+[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[TARBALL]({{ site.tarballink }}) ---
+[GITHUB]({{ site.githublink }})
+<br>
+<hr>
+This is {{ site.title }} and I am {{ site.author }}.
+<br><br>
+This is the way!
+<br>
+<hr>
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+<hr>
+<br>

@@ -36,3 +36,11 @@ ZCZC W03  60 L05 Quiz related, studying
 ZCZC W03  60 L13 Assignment #3
 ZCZC W03  10 L41 mylog.txt related
 ZCZC W03  10 L03 git related (pull, commit, push)
+ZCZC W04  30 L01 SCELE/Discord related
+ZCZC W04 100 L02 OS Lecture via ZOOM
+ZCZC W04  30 L01 SCELE/Discord related
+ZCZC W04  60 L13 Assignment #04
+ZCZC W04  10 L41 mylog.txt related
+ZCZC W04  60 L05 Quiz related, studying
+ZCZC W04 100 L02 OS Lecture via ZOOM
+ZCZC W04  10 L03 git related (pull, commit, push)

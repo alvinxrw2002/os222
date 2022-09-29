@@ -1,6 +1,15 @@
 i---
 permalink: LINKS/
 ---
+<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<br><br>
+[HOME]({{ site.baseurl }}/) ---
+[LINKS]({{ site.baseurl }}/LINKS/) ---
+[TIPS]({{ site.baseurl }}/TIPS/) ---
+[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[TARBALL]({{ site.tarballlink }}) ---
+[GITHUB]({{ site.githublink }})
+<br>
 <hr>
 
 # Some Helpful Links
@@ -37,3 +46,22 @@ FHS stands for File Hierarchy Structure. It tells you where and how files are be
 
 8. [FHS (short version)](https://www.youtube.com/watch?v=42iQKuQodW4)<br>
 FHS on 100 seconds. Short yet understandable. It can provide you the basic knowledge. Suitable for those of you who don't have much time or not really enjoy reading.
+
+<br>
+
+**W04**<br>
+
+9. [Memory Management with Address Binding](https://www.techwalla.com/articles/what-is-address-binding)<br>
+One of the memory management implementations, conducted by the OS and the app that requires access to memory. It allocates a physical memory location to a logical pointer. This can be done by associating a physical address to a logical address, also known as virtual address.
+
+10. [Linux Memory Mapping](https://frameboxxindore.com/linux/what-is-memory-mapping-in-linux.html)<br>
+Memory mapping is a mapping mechanism of some files on a storage disk to a range of addresses within an application's address space. The application can then access files on disk in the same way it accesses dynamic memory. In linux, it maps the disk sectors of a file into the virtual memory space of a process.
+
+11. [Another Memory Managements Concepts - Contiguous, Swapping, and Fragmentation](https://www.guru99.com/os-memory-management.html)<br>
+More concepts on how OS manages memory. Store data on memory in a contigous way, swapping from the main memory and backing store, and also free memory spaces that are too small to be allocated by any processes.
+
+<br>
+<hr>
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+<hr>
+<br>
