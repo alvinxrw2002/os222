@@ -6,7 +6,7 @@
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [PUBLIC KEY]({{ site.baseurl }}{{ site.mypublickey }}) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL]({{ site.tarballink }}) ---
+[TARBALL]({{ site.tarballlink }}) ---
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
