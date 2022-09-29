@@ -12,7 +12,7 @@ permalink: LINKS/
 <br>
 <hr>
 
-# Some Helpful Links
+# LINKS
 
 **W01**
 1. [OS222 Course Main Link](https://os.vlsm.org/)<br>
