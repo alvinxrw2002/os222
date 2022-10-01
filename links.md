@@ -50,6 +50,7 @@ FHS on 100 seconds. Short yet understandable. It can provide you the basic knowl
 <br>
 
 **W04**<br>
+
 9. [Logical vs Physical Memory Address](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)<br>
 Logical address appears to be a refference to the physical address. In other words, physical address is the real address of the required data on the memory. Logical address is mapped to it's correspondensing physical address by a hardware called Memory-Management Unit (MMU).
 
