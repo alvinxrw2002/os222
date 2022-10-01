@@ -50,14 +50,16 @@ FHS on 100 seconds. Short yet understandable. It can provide you the basic knowl
 <br>
 
 **W04**<br>
+9. [Logical vs Physical Memory Address](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)<br>
+Logical address appears to be a refference to the physical address. In other words, physical address is the real address of the required data on the memory. Logical address is mapped to it's correspondensing physical address by a hardware called Memory-Management Unit (MMU).
 
-9. [Memory Management with Address Binding](https://www.techwalla.com/articles/what-is-address-binding)<br>
+10. [Memory Management with Address Binding](https://www.techwalla.com/articles/what-is-address-binding)<br>
 One of the memory management implementations, conducted by the OS and the app that requires access to memory. It allocates a physical memory location to a logical pointer. This can be done by associating a physical address to a logical address, also known as virtual address.
 
-10. [Linux Memory Mapping](https://frameboxxindore.com/linux/what-is-memory-mapping-in-linux.html)<br>
+11. [Linux Memory Mapping](https://frameboxxindore.com/linux/what-is-memory-mapping-in-linux.html)<br>
 Memory mapping is a mapping mechanism of some files on a storage disk to a range of addresses within an application's address space. The application can then access files on disk in the same way it accesses dynamic memory. In linux, it maps the disk sectors of a file into the virtual memory space of a process.
 
-11. [Another Memory Managements Concepts - Contiguous, Swapping, and Fragmentation](https://www.guru99.com/os-memory-management.html)<br>
+12. [Another Memory Managements Concepts - Contiguous, Swapping, and Fragmentation](https://www.guru99.com/os-memory-management.html)<br>
 More concepts on how OS manages memory. Store data on memory in a contigous way, swapping from the main memory and backing store, and also free memory spaces that are too small to be allocated by any processes.
 
 <br>
