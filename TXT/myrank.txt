@@ -8,3 +8,6 @@ ZCZC W03 bryan-ilman
 ZCZC W04 christophernw
 ZCZC W04 danenherdi
 ZCZC W04 DavidChristianto
+ZCZC W05 dhafinn
+ZCZC W05 divanyh
+ZCZC W05 edutjie
