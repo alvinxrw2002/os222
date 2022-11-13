@@ -61,6 +61,15 @@ ZCZC W06  60 L05 Quiz related, studying
 ZCZC W06  30 L05 Quiz related (PopQuiz)
 ZCZC W06 180 L16 Assignment #06
 ZCZC W06  30 L05 Quiz related (PopQuiz)
-ZCZC W06    5 L08 OS Chat related (LINE) with a friend
+ZCZC W06   5 L08 OS Chat related (LINE) with a friend
 ZCZC W06  10 L41 mylog.txt related
 ZCZC W06  10 L03 git related (pull, commit, push)
+ZCZC W07 100 L99 Face-to-face lecture
+ZCZC W07  30 L01 SCELE/Discord related
+ZCZC W07 100 L99 Face-to-face lecture
+ZCZC W07  60 L05 Quiz related, studying
+ZCZC W07  10 L08 OS Chat related (LINE) with a friend
+ZCZC W07 150 L16 Assignment #07
+ZCZC W07  10 L41 mylog.txt related
+ZCZC W07  30 L05 Quiz related (PopQuiz)
+ZCZC W07  10 L03 git related (pull, commit, push)
