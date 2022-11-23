@@ -84,6 +84,16 @@ Concurrent processes, if not managed properly, might end up with a deadlock. Dea
 21. [Another terms: Livelock and Starvation](https://www.baeldung.com/cs/deadlock-livelock-starvation)<br>
 Similar to deadlock, livelock is a situation in which processes block each other with a repeated state change yet make no progress. Meanwhile, Starvation is the outcome of a deadlock, livelock, or as a result of continuous resource denial to a process.
 
+## W08|Scheduling
+19. [Guide to LFS](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
+Build Linux From Scratch. Of course, this is the most helpful site. Just follow the instructions, ctrl-c & ctrl-v those codes, and you're done.
+
+20. [Scheduling Multi-processes](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)<br>
+How multiple-processors are being scheduled. Turns out, it is more complex than single processor scheduling. But, in multiple-processor scheduling, multiple CPU’s are available. This makes load sharing becomes possible.
+
+21. [Preemptive or Non-Preemptive Scheduling?](https://www.guru99.com/preemptive-vs-non-preemptive-scheduling.html)<br>
+Preemptive Scheduling is a scheduling method where the tasks are mostly assigned with their priorities. Sometimes it is important to run a task with a higher priority before another lower priority task, even if the lower priority task is still running.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
